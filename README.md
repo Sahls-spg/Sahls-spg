@@ -1,4 +1,4 @@
-##Sara Pereira | Desenvolvedora Full-Stack em formação| C# | .NET | SQL Server
+Sara Pereira | Desenvolvedora Full-Stack em formação| C# | .NET | SQL Server
 ______________________________________________________________________________
 Meu nome é Sara, tenho 18 anos e atualmente curso Gestão da Tecnologia da Informação, além de estar em formação como desenvolvedora Full-Stack pela Itera 360.
 
