@@ -6,3 +6,4 @@ Estou desenvolvendo minhas habilidades em C#, utilizando a plataforma .NET, e tr
 
 Estou em constante aprendizado, aprimorando minhas habilidades técnicas e explorando boas práticas de desenvolvimento.
 
+[![My Skills](https://skillicons.dev/icons?i=c#,vscode,notion&theme=dark)](https://skillicons.dev)
