@@ -6,4 +6,6 @@ Estou desenvolvendo minhas habilidades em C#, utilizando a plataforma .NET, e tr
 
 Estou em constante aprendizado, aprimorando minhas habilidades técnicas e explorando boas práticas de desenvolvimento.
 
-[![My Skills](https://skillicons.dev/icons?i=c#,vscode,notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,vscode,notion&theme=dark)](https://skillicons.dev)
+
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server" width="48"/>
