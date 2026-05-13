@@ -8,4 +8,3 @@ Estou em constante aprendizado, aprimorando minhas habilidades técnicas e explo
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,vscode,notion&theme=dark)](https://skillicons.dev)
 
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" title="SQL Server" width="48"/>
