@@ -1,4 +1,6 @@
 Sara Pereira | Desenvolvedora Full-Stack em formação| C# | .NET | SQL Server
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,vscode,notion&theme=dark)](https://skillicons.dev)
 ______________________________________________________________________________
 Meu nome é Sara, tenho 18 anos e atualmente curso Gestão da Tecnologia da Informação, além de estar em formação como desenvolvedora Full-Stack na Itera 360.
 
@@ -6,5 +8,5 @@ Estou desenvolvendo minhas habilidades em C#, utilizando a plataforma .NET, e tr
 
 Estou em constante aprendizado, aprimorando minhas habilidades técnicas e explorando boas práticas de desenvolvimento.
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,vscode,notion&theme=dark)](https://skillicons.dev)
+
 
