@@ -1,4 +1,4 @@
-Sara Pereira | Desenvolvedora Full-Stack em formação| C# | .NET | SQL Server
+Sara Pereira | Desenvolvedora Full-Stack em formação | C# | .NET | SQL Server
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,vscode,notion&theme=dark)](https://skillicons.dev)
 ______________________________________________________________________________
