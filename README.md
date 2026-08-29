@@ -1,4 +1,4 @@
-Sara Pereira | QA e Desenvolvedora Full-Stack | C# | .NET | SQL Server |
+Sara Gonçalves | QA e Desenvolvedora Full-Stack | C# | .NET | SQL Server |
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,vscode,git,react,notion&theme=dark)](https://skillicons.dev)
 ______________________________________________________________________________
